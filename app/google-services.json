@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "447267652635",
+    "firebase_url": "https://karyaseni-9fad4.firebaseio.com",
+    "project_id": "karyaseni-9fad4",
+    "storage_bucket": "karyaseni-9fad4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447267652635:android:8659952c02cc41f377a4be",
+        "android_client_info": {
+          "package_name": "stevani.siska.karyaseni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447267652635-igat8e6462ol2vg35deo0i30h39tqf1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "stevani.siska.karyaseni",
+            "certificate_hash": "58cd8f60fbb27a562c5ccd1a383a13810317b72b"
+          }
+        },
+        {
+          "client_id": "447267652635-fiv2gq94dspdrb1f29hi2lt022blrqpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlKFK2Imvd_-J0UBQXgZyKrxtikcUfuhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447267652635-fiv2gq94dspdrb1f29hi2lt022blrqpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
